@@ -64,8 +64,6 @@ flutter:
 
   assets:
     - assets/svg/ai.svg
-    - assets/logo/wise_b_p.png
-    - assets/logo/wise_p_p.png
     - assets/logo/logo.svg
     - assets/logo/logo1.svg
     - assets/logo/logo.png
